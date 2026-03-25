@@ -1,6 +1,4 @@
-# 🐱🐶 AR Hand Tracking Animal Project
-
-## Demo
+#  AR Hand Tracking Animal Project 🐱 🐶
 
 ![Demo](Demo.gif)
 
