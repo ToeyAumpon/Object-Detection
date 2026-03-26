@@ -1,4 +1,4 @@
-#  AR Hand Tracking 
+#  AR Hand Tracking （MINI PROJECT）
 
 ![Demo](Demo.gif)
 
