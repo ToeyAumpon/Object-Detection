@@ -20,7 +20,7 @@ It also includes floating UI text above the hand, creating an **augmented realit
 ---
 
 ##  Constaction / 構造
-
+```
 Object-Detection/
 │
 ├── main.py
@@ -29,6 +29,7 @@ Object-Detection/
 └── img/
     ├── cat.png
     └── dog.png
+```
 
 ##  Features / 主な機能
 
