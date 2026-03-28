@@ -19,17 +19,16 @@ It also includes floating UI text above the hand, creating an **augmented realit
 
 ---
 
-##  Constaction / 構造
-```
-Object-Detection/
-│
-├── main.py
-├── requirements.txt
-├── README.md
-└── img/
-    ├── cat.png
-    └── dog.png
-```
+##  Concept  
+
+I’m learning to build this by following a YouTuber. There’s no particular reason for it—I simply wanted to share how cool it is with my friends and on social media. I really enjoy the building process, and seeing how much everyone likes it makes me very satisfied.
+
+## コンセプト
+
+YouTubeを見て、これを作ることを学んでいます。特別な理由はなくて、
+ただクールだと思ったので、友だちやSNSでシェアしたかっただけです。
+作っている時間がとても楽しいし、見せた人みんなが気に入ってくれるので、すごく嬉しいです。
+
 
 ##  Features / 主な機能
 
