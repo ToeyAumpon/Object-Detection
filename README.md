@@ -1,10 +1,10 @@
-#  AR Hand Tracking （MINI PROJECT）
+#  AR Hand Tracking 
 
 ![Demo](Demo.gif)
 
-## 📌 Description (EN)
+##  Description (EN)
 
-This project uses **OpenCV** and **MediaPipe** to detect hand positions in real-time and display images (cat 🐱 / dog 🐶) directly on the user's hands.
+This project uses **OpenCV** and **MediaPipe** to detect hand positions in real-time and display images (cat  / dog ) directly on the user's hands.
 
 It also includes floating UI text above the hand, creating an **augmented reality (AR)-like interactive experience**.
 
@@ -13,7 +13,7 @@ It also includes floating UI text above the hand, creating an **augmented realit
 ##  概要 (JP)
 
 本プロジェクトは、**OpenCV** と **MediaPipe** を使用して手の位置をリアルタイムで検出し、
-手の上に「猫 🐱 / 犬 🐶」の画像を表示するシステムです。
+手の上に「猫  / 犬 」の画像を表示するシステムです。
 
 さらに、手の上部にテキストを表示することで、**ARのようなインタラクティブ体験**を実現しています。
 
